@@ -1,6 +1,6 @@
 # Create React App with Cypress & Percy Example
 
-This is example project for Cypress & Percy
+This is example project for React.js with Cypress & Percy.
 
 # Setup
 
@@ -24,12 +24,14 @@ yarn install
 
 ## Install Cypress
 
-Also plase install Cypress client:
+Plase install Cypress client:
+
 https://www.cypress.io/
 
 ## Craete Percy project
 
 Create Percy project & get your token:
+
 https://percy.io/login
 
 After get your token, set your local env:
