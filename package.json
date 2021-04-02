@@ -4,7 +4,7 @@
   "author": "Masaki Yoshiiwa <yopinoji@gmail.com> (http://yopinoji.com/)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yopinoji/react-cypress-percy-sample.git"
+    "url": "https://github.com/yopinoji/react-cypress-percy-example.git"
   },
   "engines": {
     "node": ">=12",
