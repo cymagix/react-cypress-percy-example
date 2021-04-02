@@ -34,11 +34,15 @@ https://docs.cypress.io/guides/getting-started/installing-cypress#System-require
 
 ## Craete Percy project
 
+Actually, we can use Cypress without Percy.
+So this is optional step, so feel free to choose.
+
 Create Percy project & get your token:
 
 https://percy.io/login
 
 After get your token, set your local env:
+
 ```
 export PERCY_TOKEN=***********
 ```
