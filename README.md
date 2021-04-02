@@ -1,4 +1,4 @@
-# Create React App with Cypress & Percy Example
+# React App with Cypress & Percy Example
 
 This is example project for React.js with Cypress & Percy.
 
