@@ -28,6 +28,10 @@ Plase install Cypress client:
 
 https://www.cypress.io/
 
+You can read this docs & try to install it:
+
+https://docs.cypress.io/guides/getting-started/installing-cypress#System-requirements
+
 ## Craete Percy project
 
 Create Percy project & get your token:
