@@ -1,10 +1,10 @@
 {
   "name": "react-cypress-percy-sample",
   "version": "0.1.0",
-  "author": "Masaki Yoshiiwa <yopinoji@gmail.com> (http://yopinoji.com/)",
+  "author": "Masaki Yoshiiwa",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yopinoji/react-cypress-percy-example.git"
+    "url": "https://github.com/masaiborg/react-cypress-percy-example.git"
   },
   "engines": {
     "node": ">=12",
